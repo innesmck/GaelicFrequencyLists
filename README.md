@@ -30,7 +30,7 @@ The words exist in the list in all the forms found in the text, with no attempt 
 The python scripts used to scrape the content and create the lists are [here](https://github.com/innesmck/GaelicFrequencyLists/tree/main/scripts). They are pretty bare-bones.
 
 ## Who are you?
-Not a linguist or anyone you should trust on this subject in any way. I'm just a guy learning Gaelic who personally thought these lists might be useful. [@innesmck](https://twitter.com/innesmck)
+A Gaelic learner and not even a good one. Definitely not a linguist or anyone you should trust on this subject in any way. [@innesmck](https://twitter.com/innesmck)
 
 ### [All the Word Lists In A Google Sheet](https://docs.google.com/spreadsheets/d/1wwpxuqwfpzc6JRwyXQxcrCO2eJFM4dLVM_qc_VnEEsY/edit?usp=sharing)
 
